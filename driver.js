@@ -8,9 +8,7 @@
 
 const events = require('./events.js');
 
-events.on('pickup', (payload) => {
-
-
+events.on('pickup ', (payload) => {
 
   setTimeout(function(){console.log(`DRIVER Picked up! ${payload.orderId} `);
 
