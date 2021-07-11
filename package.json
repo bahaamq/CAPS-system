@@ -1,0 +1,24 @@
+{
+  "name": "CAPS-system",
+  "version": "1.0.0",
+  "description": "Event-Driven Programming",
+  "main": "vendor.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahaamq/CAPS-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahaamq/CAPS-system/issues"
+  },
+  "homepage": "https://github.com/bahaamq/CAPS-system#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "jest": "^27.0.6"
+  }
+}
