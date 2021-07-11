@@ -1,3 +1,3 @@
 const EE = require('events');
 
-module.exports = new EE();
+module.exports = new EE(); 
